@@ -1,4 +1,4 @@
-# Binary File Management System
+# Students data storing using binaryFile 
 
 This project is a Binary File Management System developed in C# using Windows Forms. It includes functionalities for file management and student record management, consisting of three screens:
 
